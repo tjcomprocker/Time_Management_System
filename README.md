@@ -1,4 +1,4 @@
-# Time_Management_System
+# Time Management System
 
 Mini Project of Computing Lab-2(Spring Semester,2017) at IIT Kharagpur.
 
